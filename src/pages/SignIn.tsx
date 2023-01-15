@@ -61,7 +61,6 @@ export default function SignIn() {
           ): Promise<void> => {
             try {
               setSubmitting(true);
-
               // user sign in
               navigate("/", { replace: true });
               setSubmitting(false);
