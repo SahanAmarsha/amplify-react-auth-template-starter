@@ -1,16 +1,9 @@
 # Amplify Authentication + React TypeScript + Context API Starter Project
 
-## How to use
+### 📌 Medium Blog Post: [https://medium.com/@jordanlewis/amplify-authentication-react-typescript-context-api-starter-project-2f0e2e1b0b7f](https://medium.com/@jordanlewis/amplify-authentication-react-typescript-context-api-starter-project-2f0e2e1b0b7f)
 
-Download the example [or clone the repo](https://github.com/SahanAmarsha/amplify-react-auth-template-starter.git): https://github.com/SahanAmarsha/amplify-react-auth-template-starter.git
-
-<!-- #default-branch-switch -->
-
-Install it and run:
-
-```sh
-yarn install
-yarn start
-```
-
-## 📌 Medium Blog Post: 
+## Getting Started
+1. Clone the repository: `git clone https://github.com/SahanAmarsha/amplify-react-auth-template-starter.git`
+2. Install dependencies: `yarn install`
+3. Start the development server: `yarn start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
