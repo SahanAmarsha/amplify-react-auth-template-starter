@@ -1,6 +1,6 @@
 # Amplify Authentication + React TypeScript + Context API Starter Project
 
-### 📌 Medium Blog Post: [https://medium.com/@jordanlewis/amplify-authentication-react-typescript-context-api-starter-project-2f0e2e1b0b7f](https://medium.com/@jordanlewis/amplify-authentication-react-typescript-context-api-starter-project-2f0e2e1b0b7f)
+### 📌 Medium Blog Post: [https://sahanamarsha.medium.com/how-to-add-authentication-flow-to-a-react-app-using-context-api-aws-amplify-768a5fc89d4b](https://sahanamarsha.medium.com/how-to-add-authentication-flow-to-a-react-app-using-context-api-aws-amplify-768a5fc89d4b)
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/SahanAmarsha/amplify-react-auth-template-starter.git`
